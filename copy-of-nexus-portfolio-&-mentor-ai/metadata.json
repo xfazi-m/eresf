@@ -1,8 +1,0 @@
-{
-  "name": "Copy of Nexus Portfolio & Mentor AI",
-  "description": "Profesjonalne portfolio programisty z wbudowanym asystentem AI i mentorem webowym.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone"
-  ]
-}
